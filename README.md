@@ -36,12 +36,12 @@ wget https://raw.githubusercontent.com/Rakau/blockList/main/blockList -O /etc/so
 以Root权限运行之后，编辑/etc/XrayR/config.yml找到RuleListPath这一项，去掉#和无用语句后保存重启XrayR
 
 ```
-wget https://raw.githubusercontent.com/Rakau/blockList/main/blockList -O /etc/XrayR/rulelist
+wget https://raw.githubusercontent.com/cyclestudy/blockList/main/blockList -O /etc/XrayR/rulelist
 ```
 # V2bX用法
 
 以Root权限运行之后重启你的V2bX 
 
 ```
-wget https://raw.githubusercontent.com/Rakau/blockList/main/route.json -O /etc/V2bX/route.json
+wget https://raw.githubusercontent.com/cyclestudy/blockList/main/route.json -O /etc/V2bX/route.json
 ```
